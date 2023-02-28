@@ -42,6 +42,8 @@ After above necessities are satisfied, Run the Installer.
 - Creating a Pipeline
 
 
+## Screenshots
+
 ![app screenshot](https://github.com/Deepak-ODRDLabs/Hate-Speech-Detection/blob/main/Result/Screenshot%202023-02-28%20103552.png)
 
 
